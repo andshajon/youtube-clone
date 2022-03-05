@@ -1,4 +1,5 @@
-.header{
+ /*  Header Designed spelled correctly to    our          second   commit */
+    header{
     display: flex;
     justify-content: space-between;
     align-items: center;
